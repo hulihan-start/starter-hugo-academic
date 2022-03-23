@@ -32,8 +32,8 @@ education:
     institution: Hohai University
     year: 2019-2022
 #  - course: BSc in Computer Science
-    institution: Nanjing Audit University
-    year: 2014-2018
+#    institution: Nanjing Audit University
+#    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
