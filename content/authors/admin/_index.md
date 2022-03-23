@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lihan Hu (胡砺寒)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The University of Iowa
+  url: https://www.uiowa.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neural network training, machine learning and medical image processing.
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Performance Computing
+- Image Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: PhD in Computer Science
+    institution: The University of Iowa
+    year: 2022 Fall
+  - course: MEng in Pattern Recognition and Intelligent System
+    institution: Hohai University
+    year: 2019-2022
+#  - course: BSc in Computer Science
     institution: Massachusetts Institute of Technology
     year: 2008
 
