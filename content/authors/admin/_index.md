@@ -32,8 +32,8 @@ education:
     institution: Hohai University
     year: 2019-2022
 #  - course: BSc in Computer Science
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Nanjing Audit University
+    year: 2014-2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lihan-hu@uiowa.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
