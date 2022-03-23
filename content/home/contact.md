@@ -16,7 +16,7 @@ content:
   autolink: true
   
   # Email form provider
-  form:
+  #form:
     provider: netlify
     formspree:
       id:
@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: lihan-hu@uiowa.edu
   phone: +86-15151801216
   address:
     street: 8, Focheng West Road
